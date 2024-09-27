@@ -9,7 +9,8 @@ public class Openfirefox {
 		System.setProperty("webdriver.gecko.driver", 
 				"E:\\geckodriver\\geckodriver.exe");
 		WebDriver driver=new FirefoxDriver();
-		driver.get("https://www.google.com/");
+		
+		
 		
 		
 
